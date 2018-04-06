@@ -22,6 +22,9 @@ This uses `node-cron`, so you don't need to edit your crontab. Edit the template
 
 Captain: [@RichardLitt](https://github.com/RichardLitt)
 
+#### Moderators and Notetakers
+- @someone
+
 ## Contribute
 
 Please do!
